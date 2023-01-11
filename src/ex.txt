@@ -1,0 +1,8 @@
+google-news
+the-washington-post
+the-times-of-india
+News18
+Hindustan times
+Moneycontrol
+cnn
+bbc-news
